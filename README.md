@@ -697,7 +697,7 @@ SRB data sample: 0    111.0
 Name: SRB, dtype: float64
 ```
 <img src="img_tennis/distribution.png" >
-(Well, I did a bit changing colour. So for detailed changing, please take a look at this [query](https://github.com/Ensya/Tennis-Players-Ranking/blob/main/Tenniss.ipynb)
+(Well, I did a bit changing colour. So for detailed changing, please take a look at this (notebook)[https://github.com/Ensya/Tennis-Players-Ranking/blob/main/Tenniss.ipynb]
 
 
 
